@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:where_we_go/animation/delayedAnimation.dart';
-import 'package:where_we_go/app/sign_in/SignInLogo.dart';
+import 'package:where_we_go/app/sign_in/signInLogo.dart';
 import 'package:where_we_go/app/sign_in/signInButton.dart';
 
 class SignInPage extends StatelessWidget {
